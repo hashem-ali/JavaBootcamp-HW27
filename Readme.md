@@ -1,7 +1,7 @@
 # Blog System
 
 ### User Class:
-- id - usename - password (Add All validation required)
+- id - username - password (Add All validation required)
 
 ### Blog Class:
 - id - title - body (Add All validation required)
